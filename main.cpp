@@ -1,35 +1,15 @@
 #include "iostream"
-#include "func0.h"
-#include "func1.h"
-
-//80-110 eranish tveri qarakusinery
-
-/*void print_rec(int start, int end){
-
-
-    if(start < 99){
-        start++;
-        print_rec(start, end);
-    }else{
-        if(start < end){
-            std::cout << start * start << "\n";
-            start++;
-            print_rec(start, end);
-        }
-    }
-}*/
-
-
+#include "child_class.h"
 
 int main() {
-/*
-    User user;
-    user.age = 23;
-    user.name = "John";
-    print_struct(&user);*/
-//
-//    print_rec(80, 110);
+    /*User user(18);
+    user.print_deafult_age();*/
 
-    print_hello();
+    John john("John", 18);
+    John john1(8, 18);
+    john1.print_friends_count();
+    john.print_name();
+    john.print_deafult_age();
+
     return 0;
 }

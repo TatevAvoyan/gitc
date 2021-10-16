@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Student-Gitc/Desktop/untitled/func1.cpp
+C:/Users/Student-Gitc/Desktop/untitled/base_class.h
 iostream
 C:/Users/Student-Gitc/Desktop/untitled/iostream
-func1.h
-C:/Users/Student-Gitc/Desktop/untitled/func1.h
 
-C:/Users/Student-Gitc/Desktop/untitled/func1.h
+C:/Users/Student-Gitc/Desktop/untitled/child_class.h
+base_class.h
+C:/Users/Student-Gitc/Desktop/untitled/base_class.h
+
+C:/Users/Student-Gitc/Desktop/untitled/main.cpp
+iostream
+C:/Users/Student-Gitc/Desktop/untitled/iostream
+child_class.h
+C:/Users/Student-Gitc/Desktop/untitled/child_class.h
 

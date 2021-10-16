@@ -118,54 +118,6 @@ untitled\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled.dir\build
 .PHONY : untitled\fast
 
-func0.obj: func0.cpp.obj
-.PHONY : func0.obj
-
-# target to build an object file
-func0.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled.dir\func0.cpp.obj
-.PHONY : func0.cpp.obj
-
-func0.i: func0.cpp.i
-.PHONY : func0.i
-
-# target to preprocess a source file
-func0.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled.dir\func0.cpp.i
-.PHONY : func0.cpp.i
-
-func0.s: func0.cpp.s
-.PHONY : func0.s
-
-# target to generate assembly for a file
-func0.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled.dir\func0.cpp.s
-.PHONY : func0.cpp.s
-
-func1.obj: func1.cpp.obj
-.PHONY : func1.obj
-
-# target to build an object file
-func1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled.dir\func1.cpp.obj
-.PHONY : func1.cpp.obj
-
-func1.i: func1.cpp.i
-.PHONY : func1.i
-
-# target to preprocess a source file
-func1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled.dir\func1.cpp.i
-.PHONY : func1.cpp.i
-
-func1.s: func1.cpp.s
-.PHONY : func1.s
-
-# target to generate assembly for a file
-func1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled.dir\func1.cpp.s
-.PHONY : func1.cpp.s
-
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -199,12 +151,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled
-	@echo ... func0.obj
-	@echo ... func0.i
-	@echo ... func0.s
-	@echo ... func1.obj
-	@echo ... func1.i
-	@echo ... func1.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

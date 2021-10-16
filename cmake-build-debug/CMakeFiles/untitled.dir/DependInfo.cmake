@@ -8,8 +8,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Student-Gitc/Desktop/untitled/func0.cpp" "C:/Users/Student-Gitc/Desktop/untitled/cmake-build-debug/CMakeFiles/untitled.dir/func0.cpp.obj"
-  "C:/Users/Student-Gitc/Desktop/untitled/func1.cpp" "C:/Users/Student-Gitc/Desktop/untitled/cmake-build-debug/CMakeFiles/untitled.dir/func1.cpp.obj"
   "C:/Users/Student-Gitc/Desktop/untitled/main.cpp" "C:/Users/Student-Gitc/Desktop/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
