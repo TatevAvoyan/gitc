@@ -84,7 +84,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Student-Gitc/Desktop/untitled/func0.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Student-Gitc/Desktop/untitled/func0.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Student-Gitc/Desktop/untitled/func1.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Student-Gitc/Desktop/untitled/func1.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/Student-Gitc/Desktop/untitled/main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Student-Gitc/Desktop/untitled/struct.h">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/Student-Gitc/Desktop/untitled/CMakeLists.txt">
