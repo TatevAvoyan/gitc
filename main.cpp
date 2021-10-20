@@ -1,17 +1,27 @@
 #include "iostream"
+#include "string"
 
-void print(int start, int end){
-    if(start <= end ){
-        if(start % 2 == 0){
-            std::cout << start << "\n";
-        }
-        print(++start, end);
-    }
+
+
+void find(){
+    std::string lorem;
+    std::cout << "Enter your text \n";
+    std::cin >> lorem;
+
+/*  lorem.insert();
+    lorem.replace();
+    lorem.insert();
+
+    */
+
+    auto x = lorem.find("dummy");
+    lorem.replace();
+    std::cout << x;
 }
 
 int main() {
 
-    print(1, 20);
+    find();
 
     return 0;
 }
