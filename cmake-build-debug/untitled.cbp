@@ -84,12 +84,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Student-Gitc/Desktop/untitled/base_class.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/Student-Gitc/Desktop/untitled/child_class.h">
-			<Option target="untitled"/>
-		</Unit>
 		<Unit filename="C:/Users/Student-Gitc/Desktop/untitled/main.cpp">
 			<Option target="untitled"/>
 		</Unit>

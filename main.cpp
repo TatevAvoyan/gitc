@@ -1,15 +1,17 @@
 #include "iostream"
-#include "child_class.h"
+
+void print(int start, int end){
+    if(start <= end ){
+        if(start % 2 == 0){
+            std::cout << start << "\n";
+        }
+        print(++start, end);
+    }
+}
 
 int main() {
-    /*User user(18);
-    user.print_deafult_age();*/
 
-    John john("John", 18);
-    John john1(8, 18);
-    john1.print_friends_count();
-    john.print_name();
-    john.print_deafult_age();
+    print(1, 20);
 
     return 0;
 }
